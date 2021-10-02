@@ -15,13 +15,13 @@ description = ""
 # ID of the guild
 # To find this, go to your discord settings > advanced > enable developer mode
 # Then, right click the guild picture on the left sidebar and click copy ID
-guild_id = "893321767274303488"
+guild_id = 893321767274303488
 
 # URLs of the OpenSea accounts that should be monitored and the channel IDs where their activity should be sent.
 # These are some examples. Feel free to add/remove as many as you wish but make sure to follow this template.
 # To find the IDs, go to your discord settings > advanced > enable developer mode
 # Then, right click the channel and click copy ID
-accounts_and_channels = [("https://opensea.io/GaryVee?tab=activity", "893687009682554890"), ("https://opensea.io/pranksy?tab=activity", "893687089395277895")]
+accounts_and_channels = [("https://opensea.io/GaryVee?tab=activity", 893687009682554890), ("https://opensea.io/pranksy?tab=activity", 893687089395277895)]
 
 # Time (in minutes) between checking for new sales
 # All sales are always sent, no matter how often we check
