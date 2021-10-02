@@ -21,7 +21,10 @@ guild_id = 893321767274303488
 # These are some examples. Feel free to add/remove as many as you wish but make sure to follow this template.
 # To find the IDs, go to your discord settings > advanced > enable developer mode
 # Then, right click the channel and click copy ID
-accounts_and_channels = [("https://opensea.io/GaryVee?tab=activity", 893687009682554890), ("https://opensea.io/pranksy?tab=activity", 893687089395277895),("https://opensea.io/Gennady?tab=activity",893966064390647869)]
+accounts_and_channels = [("https://opensea.io/GaryVee?tab=activity", 893687009682554890),
+                            ("https://opensea.io/pranksy?tab=activity", 893687089395277895),
+                                ("https://opensea.io/Gennady?tab=activity",893966064390647869),
+                                     ("https://opensea.io/PaperD?tab=activity",893968646580355092)]
 
 # Time (in minutes) between checking for new sales
 # All sales are always sent, no matter how often we check
