@@ -1,8 +1,12 @@
+from decouple import config
+
+
+API_KEY = config('TOKEN')
 # Create a bot application and get its token at the Discord Developer Portal.
 # Follow this guide if you need help: https://www.writebots.com/discord-bot-token/
 # Make sure to enable both privileged intents on the bot tab.
 # This is also how you will invite the bot to your server.
-token = "ODkzNzIyNDE3OTUwNzY1MDg3.YVfl3A.aFJZ8RQXkY1EGf0DutE-VJAROaE"
+token = API_KEY
 
 # Bot description shown in the help menu
 description = ""
