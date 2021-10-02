@@ -24,7 +24,11 @@ guild_id = 893321767274303488
 accounts_and_channels = [("https://opensea.io/GaryVee?tab=activity", 893687009682554890),
                             ("https://opensea.io/pranksy?tab=activity", 893687089395277895),
                                 ("https://opensea.io/Gennady?tab=activity",893966064390647869),
-                                     ("https://opensea.io/PaperD?tab=activity",893968646580355092)]
+                                     ("https://opensea.io/PaperD?tab=activity",893968646580355092),
+                                        ("https://opensea.io/Farokh?tab=activity",893971238148530206),
+                                            ("https://opensea.io/Zeneca_33?tab=activity",893974368152084510),
+                                                ("https://opensea.io/Mister_Benjamin?tab=activity",893981661736337488),
+                                                    ("https://opensea.io/DCLBlogger?tab=activity",893974143509352478)]
 
 # Time (in minutes) between checking for new sales
 # All sales are always sent, no matter how often we check
